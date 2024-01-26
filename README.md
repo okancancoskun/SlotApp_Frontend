@@ -1,10 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Slot App Frontend.
 
 <b>First of all create an '.env' file in project directory according to '.env.example'. Text necessary variables in .env file.</b>
 
 <h4>After that run following commands</h4>
+
+```bash
+$ npm install
+```
 
 ## Available Scripts
 
