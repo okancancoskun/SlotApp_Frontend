@@ -1,5 +1,7 @@
 # Slot App Frontend.
 
+- Live App Url - [https://slotapp-frontend.onrender.com](https://slotapp-frontend.onrender.com)
+
 <b>First of all create an '.env' file in project directory according to '.env.example'. Text necessary variables in .env file.</b>
 
 <h4>After that run following commands</h4>
